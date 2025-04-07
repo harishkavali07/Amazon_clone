@@ -23,7 +23,7 @@ img,.box-img,a,p,.panal1{
 }
 
 .logo{
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("../images/amazon_logo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -273,7 +273,7 @@ ul a:hover{
 }
 
 .logo{
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("../images/amazon_logo.png");
     height: 50px;
     width: 100px;
     background-size: cover;

@@ -1,0 +1,2 @@
+# MY CLONE
+AMAZON
